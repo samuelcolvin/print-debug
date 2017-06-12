@@ -1,1 +1,1 @@
-from .main import debug
+from .main import debug, pretty
